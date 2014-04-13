@@ -1,1 +1,1 @@
-What does Git Clone do - please explain in your own words:
+The git clone tool will copy an existing git respository so you can add to it. Git clone will copy the entire history of a respository to your local machine, and give you a working directory of the main branch for that you can view or edit the project data.
