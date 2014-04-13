@@ -1,1 +1,1 @@
-What is a branch - please explain in your own words:
+Git branches allows you to create multiple development enviroments / project timelines which are isolated from eachother but exist within a single repository. A new branch allows the user to create a new working timeline for a project where any changes made will not affect the source material / master branch.
