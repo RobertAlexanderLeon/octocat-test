@@ -1,1 +1,1 @@
-What is the "upstream" remote usually used for - please explain in your own words:
+You use the upstream remote to fetch from the original repository on GitHub in order to keep your local copy in sync with the project that you're contributing to. You contribute back to the upstream repo by making a pull request.
